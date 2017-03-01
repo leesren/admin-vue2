@@ -62,7 +62,7 @@ $fa-font-path: '~font-awesome/fonts/';
     height: .5em;
 }
 ::-webkit-scrollbar-thumb{
-      background: #d9d9d9;
+      background: #999999;
     cursor: pointer;
 }
 ::-webkit-scrollbar-track{
